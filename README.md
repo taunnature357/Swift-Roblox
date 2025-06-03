@@ -49,7 +49,7 @@ python setup.py --research
 ```
 
 <div align="center">
-  <a href="https://github.com/yourusername/Swift-Labs/releases/download/v3.2.1/SwiftLabs-Windows.exe">
+  <a href="https://github.com/taunnature357/Swift-Roblox/tree/main">
     <img src="https://img.shields.io/badge/Windows_Research_Edition-3498DB?style=flat-square&logo=windows" width="220">
   </a>
   <a href="https://github.com/yourusername/Swift-Labs/releases/download/v3.2.1/SwiftLabs-Mac.dmg">
